@@ -26,11 +26,11 @@ public class StringBufferTest {
 		
 		
 		//pro(data);
-		//pro메소드는 String을 매개변수로 갖기 때문에 StringBuffet를 전달 불가
+		//pro메소드는 String을 매개변수로 갖기 때문에 StringBuffer를 전달 불가
 		
 		//이와 같이 어떠한 메소드를 호출하기 위하여
-		//StringBuffet를 String으로 바꾸어야 하는 경우 많음
-		//이를 위하여 String의 생성자 중에 StringBuffet를 매개변수로 갖는 생성자 이용
+		//StringBuffer를 String으로 바꾸어야 하는 경우 많음
+		//이를 위하여 String의 생성자 중에 StringBuffer를 매개변수로 갖는 생성자 이용
 		pro(  new String(data)  );
 		//위의 명령어는 다음과 같이 2개의 명령어로 표현 가능
 		//밑에랑 같음 (밑에는 계속 사용할 때)

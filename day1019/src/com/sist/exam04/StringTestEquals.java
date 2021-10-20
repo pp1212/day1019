@@ -1,6 +1,6 @@
 package com.sist.exam04;
 
-public class StringTest06 {
+public class StringTestEquals {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
